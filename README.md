@@ -9,5 +9,7 @@ Currently, two official plugins are available:
 
 
 start> npm run dev
+
 local server start: npm run server
+
 local server port: 3001
